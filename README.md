@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chloeebubedike
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ... python projects
+- 👀 I’m interested in ... software engineering and web development
+- 🌱 I’m currently learning ... HTML, CSS, Javascript and python 
+- 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... chloeebubedike@yahoo.com
 
 <!---
