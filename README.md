@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chloeebubedike
 - 👀 I’m interested in ... software engineering and web development
-- 🌱 I’m currently learning ... JavaScript DOM, SQL and Python  
+- 🌱 I’m currently learning ... React + React Native
 - 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... chloeebubedike@yahoo.com
 
