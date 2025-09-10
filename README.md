@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chloeebubedike
 - 👀 I’m interested in ... software engineering and web development
 - 🌱 I’m currently building ... a full stack inclusive beauty platform
-- 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... chloeebubedike@yahoo.com
 
 <!---
